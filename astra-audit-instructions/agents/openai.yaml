@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astra 지시 파일 감사"
+  short_description: "AGENTS.md와 스킬의 중복 및 충돌을 찾아 핵심 규칙을 보존하며 정리"
+  default_prompt: "$astra-audit-instructions 스킬로 이 작업에 맞는 결과를 작성해줘."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astra 병렬 위임 설계"
+  short_description: "독립 작업과 의존 작업을 구분하고 담당 범위와 결과 통합 기준을 설계"
+  default_prompt: "$astra-plan-delegation 스킬로 이 작업에 맞는 결과를 작성해줘."
